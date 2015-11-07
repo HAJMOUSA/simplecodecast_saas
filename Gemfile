@@ -12,7 +12,7 @@ gem 'sass-rails', '4.0.3'
 # Use Uglifier as compressor for JavaScript assets
 group :production do
     gem 'pg'
-    gem 'rails12_factor'
+    gem 'rails_12factor'
 end
 
 gem 'uglifier', '1.3.0'
