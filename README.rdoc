@@ -2,7 +2,6 @@
 
 Coder Manual project application 
 subscription based web application   hajmousa.com
-
 Things you may want to cover:
 
 * Ruby version
